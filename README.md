@@ -1,4 +1,7 @@
-# Sname Game
 # Jogo da cobrinha
 
-Project developed in the 
+Projeto desenvolvido na semana da programação Python pela KenzieAcademy.
+
+# Snake Game
+
+Project developed by KenzieAcademy in the Python dev week. 
