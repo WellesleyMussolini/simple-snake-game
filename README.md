@@ -4,4 +4,4 @@ Projeto desenvolvido na semana da programação Python pela KenzieAcademy.
 
 # Snake Game
 
-Project developed by KenzieAcademy in the Python dev week. 
+Project developed in Python dev week by KenzieAcademy. 
